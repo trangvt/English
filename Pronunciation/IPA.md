@@ -25,3 +25,7 @@ phonetics
 	/foʊˈnet̬.ɪks/
 	the study of the sounds made by the human voice in speech
 		a dictionary of phonetics
+---------------------------------------------
+
+Pronunciation Workshop
+	https://www.youtube.com/watch?v=uKDKH257j18
