@@ -5,14 +5,14 @@ Pharmacy
 
 1/ 
 V - consult
-N - consultation
+N - consultation  /ˌkɑːn.sʌlˈteɪ.ʃən/
 A - consultative
 
 2/ 
 V - control
 
 3/
-N - convenience
+N - convenience		/kənˈviː.ni.əns/
 A - convenient
 Adv - conveniently
 
@@ -38,8 +38,11 @@ A - limited
 V - monitor
 
 9/ 
-N - potential
+N - potential 	/poʊˈten.ʃəl/
+	potency 	/ˈpoʊ.t̬ənt.si/
+
 A - potential
+
 Adv - potentially
 
 10/ 
@@ -49,30 +52,35 @@ N - sample
 N - sense
 
 12/
-V - volunteer
-N - volunteer
-A - voluntaty
+V - volunteer 		/ˌvɑː.lənˈtɪr/
+	a person who does something, especially helping other people, willingly and without being forced or paid to do it
 
+	volunteerism
+
+N - volunteer
+	to offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment
+
+A - voluntaty  /ˈvɑː.lən.ter.i/
 
 ----------------------------------------------------------------
 Words in context
 
 https://vi4.ilovetranslation.com/W6ivWZ50b7l=d/
 
-Yoko is having trouble with seasonal allergies this fall.
-After consulting with her doctor, they decide she should take medication on a regular basis to control her symptoms.
-Her doctor recommends the medication he thinks will work best and offers her a handful of samples at no charge.
-For her long-term needs, Yoko will need to have a prescription filled.
-Her doctor volunteers to call the pharmacy.
+Yoko is having trouble with seasonal /ˈsiː.zən.əl/ allergies /ˈæl.ɚ.dʒi/ this fall.
+After consulting with her doctor, they decide she should take medication /ˌmed.əˈkeɪ.ʃən/ on a regular basis to control her symptoms /ˈsɪmp.təm/.
+Her doctor recommends /ˌrek.əˈmend/ the medication he thinks will work best and offers her a handful /ˈhænd.fʊl/ of samples at no charge /tʃɑːrdʒ/.
+For her long-term needs, Yoko will need to have a prescription  /prɪˈskrɪp.ʃən/ filled.
+Her doctor volunteers to call the pharmacy /ˈfɑːr.mə.si/.
 Yoko uses to order a supply, which will limit the time she spends waiting for the prescription to be filled.
 
 Yoko is new in town and does not know which pharmacy she wants to use.
-She knows that there is a drugstore near her apartment and one near where she works, but does not remember the operating hours for either.
+She knows that there is a drugstore /ˈdrʌɡ.stɔːr/ near her apartment and one near where she works, but does not remember the operating hours for either.
 Yoko knows that convenient hours and location are important factors in selecting a pharmacy.
 Although she can fill different prescriptions at different drugstores, it makes more sense to Yoko to fill all of her medications at one location.
 
-Occasionally, some drugs will have harmful interactions.
+Occasionally  /əˈkeɪ.ʒən.əl.i/, some drugs will have harmful /ˈhɑːrm.fəl/ interactions.
 Usually, your doctor will prevent a drug interaction problem before it starts.
-But, if you see more than one doctor, it is hard to monitor the various medications you are taking.
-Having all your prescriptions filled at one location increases the chances that the pharmacist will detect a potential drug interation problem.
-This timely detection can save your life.
+But, if you see more than one doctor, it is hard to monitor /ˈmɑː.nə.t̬ɚ/ the various medications you are taking.
+Having all your prescriptions filled at one location increases the chances that the pharmacist /ˈfɑːr.mə.sɪst/ will detect a potential drug interation problem.
+This timely /ˈtaɪm.li/ detection can save your life.
