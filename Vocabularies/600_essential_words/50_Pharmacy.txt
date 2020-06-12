@@ -1,18 +1,46 @@
 + Family words + examples
 https://www.youtube.com/watch?v=PvccYWpNX1c&list=PLBbSoUx2KnrzU7uBftZnPUSYtBAnbxaaN&index=49
 
-Pharmacy
+50/ Pharmacy
 
 1/ 
 V - consult
-N - consultation  /ˌkɑːn.sʌlˈteɪ.ʃən/
+    to discuss ST with SO before you make a decision
+    consult (with) SB (about/on ST) = hỏi ý kiến SB về ST
+
+        If the pain continues, consult your doctor
+        Have you consulted your lawyer about this?
+        Consult with your physician about possible treatments
+
+N - consultant
+    They work as consultants to a software company
+    A 30-minute consultation will cost £50
+        Một lần khám bệnh 30 phút mất 50 bảng Anh
+
+    consultation
+        /ˌkɑːn.sʌlˈteɪ.ʃən/
+        (C) a meeting to discuss ST or to get advice
+        (U) a discussion with SO about ST that you are planning, in order to get their opinion or advice
+
+    consultancy
+        a company that gives advice on a particular subject
+
 A - consultative
+        giving advice about ST
+
+Adv - conservatively
+        /kənˈsɝː.və.t̬ɪv.li/
 
 2/ 
 V - control
+    /kənˈtroʊl/
+
+A - controllable
 
 3/
-N - convenience		/kənˈviː.ni.əns/
+N - convenience
+    /kənˈviː.ni.əns/
+
 A - convenient
 Adv - conveniently
 
@@ -22,10 +50,14 @@ N - detection
 A - detectable
 
 5/
-factor
+N - factor
+    The result will depend on a number of different factors
+    Two, three, four and six are all factors (hệ số) of twelve
 
 6/ 
 V - interact
+    /ˌɪntərˈækt/
+
 N - interaction
 A - interactive
 
@@ -36,10 +68,13 @@ A - limited
 
 8/
 V - monitor
+    /ˈmɑːnɪtər/
 
 9/ 
-N - potential 	/poʊˈten.ʃəl/
-	potency 	/ˈpoʊ.t̬ənt.si/
+N - potential
+        /poʊˈten.ʃəl/
+    potency
+        /ˈpoʊ.t̬ənt.si/
 
 A - potential
 
@@ -52,35 +87,83 @@ N - sample
 N - sense
 
 12/
-V - volunteer 		/ˌvɑː.lənˈtɪr/
-	a person who does something, especially helping other people, willingly and without being forced or paid to do it
+V - volunteer
+    /ˌvɑː.lənˈtɪr/
+    a person who does something, especially helping other people, willingly and without being forced or paid to do it
 
-	volunteerism
+    volunteerism
 
 N - volunteer
-	to offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment
+    to offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment
 
-A - voluntaty  /ˈvɑː.lən.ter.i/
+A - voluntaty
+    /ˈvɑː.lən.ter.i/
 
 ----------------------------------------------------------------
 Words in context
 
 https://vi4.ilovetranslation.com/W6ivWZ50b7l=d/
 
-Yoko is having trouble with seasonal /ˈsiː.zən.əl/ allergies /ˈæl.ɚ.dʒi/ this fall.
-After consulting with her doctor, they decide she should take medication /ˌmed.əˈkeɪ.ʃən/ on a regular basis to control her symptoms /ˈsɪmp.təm/.
-Her doctor recommends /ˌrek.əˈmend/ the medication he thinks will work best and offers her a handful /ˈhænd.fʊl/ of samples at no charge /tʃɑːrdʒ/.
-For her long-term needs, Yoko will need to have a prescription  /prɪˈskrɪp.ʃən/ filled.
-Her doctor volunteers to call the pharmacy /ˈfɑːr.mə.si/.
+Yoko is having trouble with seasonal allergies this fall.
+After consulting with her doctor, they decide she should take medication on a regular basis to control her symptoms.
+Her doctor recommends the medication he thinks will work best and offers her a handful of samples at no charge.
+For her long-term needs, Yoko will need to have a prescription filled.
+Her doctor volunteers to call the pharmacy.
 Yoko uses to order a supply, which will limit the time she spends waiting for the prescription to be filled.
 
 Yoko is new in town and does not know which pharmacy she wants to use.
-She knows that there is a drugstore /ˈdrʌɡ.stɔːr/ near her apartment and one near where she works, but does not remember the operating hours for either.
+She knows that there is a drugstore near her apartment and one near where she works, but does not remember the operating hours for either.
 Yoko knows that convenient hours and location are important factors in selecting a pharmacy.
 Although she can fill different prescriptions at different drugstores, it makes more sense to Yoko to fill all of her medications at one location.
 
-Occasionally  /əˈkeɪ.ʒən.əl.i/, some drugs will have harmful /ˈhɑːrm.fəl/ interactions.
+Occasionally, some drugs will have harmful interactions.
 Usually, your doctor will prevent a drug interaction problem before it starts.
-But, if you see more than one doctor, it is hard to monitor /ˈmɑː.nə.t̬ɚ/ the various medications you are taking.
-Having all your prescriptions filled at one location increases the chances that the pharmacist /ˈfɑːr.mə.sɪst/ will detect a potential drug interation problem.
-This timely /ˈtaɪm.li/ detection can save your life.
+But, if you see more than one doctor, it is hard to monitor the various medications you are taking.
+Having all your prescriptions filled at one location increases the chances that the pharmacist will detect a potential drug interation problem.
+This timely detection can save your life.
+
+seasonal /ˈsiː.zən.əl/ allergies /ˈæl.ɚ.dʒi/
+medication /ˌmed.əˈkeɪ.ʃən/
+symptoms /ˈsɪmp.təm/
+recommends /ˌrek.əˈmend/
+handful /ˈhænd.fʊl/
+charge /tʃɑːrdʒ/
+pharmacy /ˈfɑːr.mə.si/
+drugstore /ˈdrʌɡ.stɔːr/
+Occasionally  /əˈkeɪ.ʒən.əl.i/
+harmful /ˈhɑːrm.fəl/
+monitor /ˈmɑː.nə.t̬ɚ/
+pharmacist /ˈfɑːr.mə.sɪst/
+prescription  /prɪˈskrɪp.ʃən/
+timely /ˈtaɪm.li/
+
+----------------------------------------------------------------
+specialist
+    /ˈspeʃ.əl.ɪst/
+    chuyên gia
+    SO who limits his or her studying or work to a particular area of knowledge, and who is an expert in that area
+    SO who has a lot of experience, knowledge, or skill in a particular subject or business area
+
+    a specialist could hire consultants to help him
+
+expert
+    /ˈek.spɝːt/
+    chuyên gia
+    a person who has a comprehensive and authoritative knowledge of or skill in a particular area
+
+    A specialist is always an expert in his/her field, but an expert may not be a specialist.
+    An expert means someone who is good at a certain thing
+        Eg: You can be an expert in paper cutting
+
+consultant
+    /kənˈsʌl·tənt/
+    tư vấn
+    a person who is a specialist in a particular subject and whose job is to give advice and information to businesses, government organizations, etc
+
+sharp
+    /SHärp/
+    người thông thạo
+
+fancier
+    /ˈfansēər/
+    người sành sỏi
