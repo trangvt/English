@@ -1,7 +1,9 @@
 Listening 600 Essential Words for TOEIC test
 	https://www.youtube.com/watch?v=Oaca7xAT-E4
-----------------------------------------------------
+600 từ vựng TOEIC
+	https://elight.edu.vn/600-tu-vung-toeic-49-chu-de-tu-vung/
 
+----------------------------------------------------
 1-5: General Business
 6-10: Office Issues
 11-15: Personnel
@@ -12,11 +14,73 @@ Listening 600 Essential Words for TOEIC test
 36-40: Travel
 41-45: Entertainment
 16-50: Health
----------- 1-5: General Business ------------------------------------------
-1/ Contracts
+
+============== 1/ General Business ============================
+1/ Contract
 2/ Marketing
 3/ Warranties
-4/ Business Planning
+4/ Business planing
 5/ Conferences
----------- 16-50: Health ------------------------------------------
+
+============== 2/ Office Issues ===============================
+6/ Computers
+7/ Office technology
+8/ Office procedures
+9/ Electronics
+10/ Correspondence
+
+============== 3/ Personnel ===================================
+11/ Job advertising & Recruiting
+12/ Applying & Interviewing
+13/ Hiring & Interviewing
+14/ Salaries & Benefit
+15/ Promotions, Pensions & Awards
+
+============== 4/ Purchasing ==================================
+16/ Shopping
+17/ Ordering supplies
+18/ Shipping
+19/ Invoices
+20/ Inventory
+
+============== 5/ Finance & Budgeting =========================
+21/ Banking
+22/ Accounting
+23/ Investments
+24/ Taxes
+25/ Financial statements
+
+============== 6/ Management & Issues =========================
+26/ Property
+27/ Board meeting & Committees
+28/ Quality Control
+29/ Product Development
+30/ Renting & Leasing
+
+============== 7/ Restaurants & Events ========================
+31/ Selecting a Restaurant
+32/ Eating out
+33/ Ordering lunch
+34/ Cooking as a Career
+35/ Events
+
+============== 8/ Travel ======================================
+36/ General travel
+37/ Airlines
+38/ Trains
+39/ Hotels
+40/ Car rentals
+
+============== 9/ Entertainment ===============================
+41/ Movies
+42/ Theater
+43/ Music
+44/ Museums
+45/ Media
+
+============== 10/ Health =====================================
+46/ Doctor’s Office
+47/ Dentist’s Office
+48/ Health Insurance
+49/ Hospitals
 50/ Pharmacy
