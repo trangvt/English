@@ -1,0 +1,1 @@
+https://www.englishclub.com/vocabulary/word-classes.htm
