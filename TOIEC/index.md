@@ -1,3 +1,5 @@
+Cấu trúc đề thi TOEIC : TẤT CẢ 7 phần Nghe & Đọc
+	https://tienganhmoingay.com/thong-tin-toeic/cau-truc-de-thi-toeic/
 
 1 - Listening - Photographs - 6 câu
 	https://tienganhmoingay.com/luyen-nghe-toeic/luyen-nghe-toeic-part-1/
