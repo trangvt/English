@@ -766,15 +766,15 @@ ackee
 	ackee
 	ackees
 acknowledge
-	acknowledge
-	acknowledged
-	acknowledgement
+	acknowledge (v)
+	acknowledged (a)
+	acknowledgement (n)
 	acknowledgements
 	acknowledges
 	acknowledging
-	acknowledgment
+	acknowledgment (n)
 	acknowledgments
-	unacknowledged
+	unacknowledged (a)
 acme
 	acme
 acne
@@ -21123,16 +21123,16 @@ consign
 	consignors
 	consigns
 consist
-	consist
+	consist (v)
 	consisted
 	consisting
 	consists
 consistency
-	consistency
+	consistency (n)
 consistent
-	consistent
-	consistently
-	inconsistent
+	consistent (a)
+	consistently (adv)
+	inconsistent (a)
 consistory
 	consistory
 consociational
@@ -68950,20 +68950,20 @@ opaque
 	opaquely
 	opaqueness
 open
-	open
+	open (a,n,v)
 	opened
-	opener
-	openers
-	opening
-	openings
-	openly
-	openness
+	opener (n)
+	openers (n)
+	opening (n)
+	openings (n)
+	openly (adv)
+	openness (n)
 	opens
-	reopen
+	reopen (v)
 	reopened
 	reopening
 	reopens
-	unopened
+	unopened (a)
 opencast
 	opencast
 openwork
