@@ -79059,7 +79059,7 @@ publican
 	publican
 	publicans
 publication
-	publication
+	publication (n)
 	publications
 publicist
 	publicist
@@ -79076,14 +79076,14 @@ publicize
 	publicizes
 	publicizing
 publish
-	publish
+	publish (v)
 	publishable
 	published
 	publisher
 	publishers
 	publishes
 	publishing
-	republish
+	republish (v)
 	republished
 	republishes
 	republishing
