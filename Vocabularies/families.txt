@@ -1435,15 +1435,15 @@ adverse
 	adverseness
 	adversities
 	adversity
-advertise
+advertise (v)
 	advertise
 	ad
 	ads
 	advert
 	advertised
-	advertisement
+	advertisement (n)
 	advertisements
-	advertiser
+	advertiser (n)
 	advertisers
 	advertises
 	advertising
@@ -4457,10 +4457,10 @@ appertain
 appetit
 	appetit
 appetite
-	appetite
+	appetite (n)
 	appetites
 appetizing
-	appetizing
+	appetizing (a)
 	appetising
 	unappetising
 	unappetizing
@@ -28832,13 +28832,13 @@ disclaim
 	disclaiming
 	disclaims
 disclose
-	disclose
+	disclose (v)
 	disclosed
 	discloses
 	disclosing
-	undisclosed
+	undisclosed (a)
 disclosure
-	disclosure
+	disclosure (n)
 	disclosures
 disco
 	disco
@@ -33313,21 +33313,21 @@ emplacement
 emplotment
 	emplotment
 employ
-	employ
-	employability
-	employable
+	employ (v)
+	employability (n)
+	employable (a)
 	employed
-	employee
+	employee (n)
 	employees
-	employer
+	employer (n)
 	employers
 	employing
-	employment
+	employment (n)
 	employments
 	employs
-	unemployable
-	unemployed
-	unemployment
+	unemployable (a,n)
+	unemployed (a,n)
+	unemployment (n)
 emporia
 	emporia
 emporium
@@ -36032,14 +36032,14 @@ expensive
 	inexpensively
 	inexpensiveness
 experience
-	experience
-	experienced
+	experience (v,n)
+	experienced (a)
 	experiences
 	experiencing
-	experiential
+	experiential (a)
 	experientially
-	inexperience
-	inexperienced
+	inexperience (n)
+	inexperienced (a)
 experiment
 	experiment
 	experimental
@@ -48975,7 +48975,7 @@ houri
 	houri
 	houris
 house
-	house
+	house (a,n,v)
 	housed
 	houses
 	housing
@@ -82194,15 +82194,15 @@ regale
 regalia
 	regalia
 regard
-	regard
-	disregard
+	regard (v,n)
+	disregard (v)
 	disregarded
 	disregarding
 	disregards
 	regarded
 	regarding
 	regardless
-	regards
+	regards (v,n)
 regatta
 	regatta
 	regattas
@@ -83444,16 +83444,16 @@ restrain
 	restraints
 	unrestrained
 restrict
-	restrict
-	restricted
+	restrict (v)
+	restricted (a)
 	restricting
-	restriction
+	restriction (n)
 	restrictions
-	restrictive
-	restrictively
+	restrictive (a)
+	restrictively (adv)
 	restricts
-	unrestricted
-	unrestrictive
+	unrestricted (a)
+	unrestrictive (a)
 restroom
 	restroom
 	restrooms
@@ -105261,8 +105261,8 @@ variegated
 	variegated
 	variegation
 variety
-	variety
-	varietal
+	variety (n)
+	varietal (a)
 	varieties
 various
 	various
