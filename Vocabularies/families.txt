@@ -24160,15 +24160,15 @@ cultivar
 	cultivar
 	cultivars
 cultivate
-	cultivate
-	cultivated
+	cultivate (v)
+	cultivated (a)
 	cultivates
 	cultivating
-	cultivation
+	cultivation (n)
 	cultivations
-	cultivator
+	cultivator (n)
 	cultivators
-	uncultivated
+	uncultivated (a)
 culture
 	culture
 	cultural
@@ -50586,7 +50586,7 @@ impasse
 	impasse
 	impasses
 impassioned
-	impassioned
+	impassioned (a)
 impassive
 	impassive
 	impassively
@@ -71895,10 +71895,10 @@ passiflora
 passim
 	passim
 passion
-	passion
-	passionate
-	passionately
-	passionless
+	passion (n)
+	passionate (a)
+	passionately (adv)
+	passionless (a)
 	passions
 passionflower
 	passionflower
@@ -78971,11 +78971,11 @@ psycholinguistic
 	psycholinguistics
 	psycholinguists
 psychology
-	psychology
-	psychological
-	psychologically
+	psychology (n)
+	psychological (a)
+	psychologically (adv)
 	psychologies
-	psychologist
+	psychologist (n)
 	psychologists
 psychometric
 	psychometric
