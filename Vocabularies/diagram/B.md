@@ -1,3 +1,2 @@
 + beneath
-	/bɪˈniːθ/
-	(pre, adv)
+	(pre, adv) /bɪˈniːθ/

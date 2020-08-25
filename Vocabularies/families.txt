@@ -52631,14 +52631,14 @@ interdigitate
 	interdigitating
 	interdigitation
 interest
-	interest
-	interested
-	interestedly
-	interesting
-	interestingly
-	interests
-	uninterested
-	uninteresting
+	interest (v,n)
+	interested (a)
+	interestedly (adv)
+	interesting (a)
+	interestingly (adv)
+	interests (n)
+	uninterested (a)
+	uninteresting (a)
 interface
 	interface
 	interfaced
@@ -61157,16 +61157,16 @@ mealybug
 	mealybug
 	mealybugs
 mean
-	mean
-	meaning
-	meaningful
-	meaningfully
-	meaningfulness
+	mean (a,n,v)
+	meaning (a,n)
+	meaningful (a)
+	meaningfully (adv)
+	meaningfulness (n)
 	meaningless
 	meaninglessness
-	meanings
-	means
-	meant
+	meanings (n)
+	means (n)
+	meant (v)
 meander
 	meander
 	meandered
@@ -95984,14 +95984,14 @@ subsist
 	subsisting
 	subsists
 substance
-	substance
+	substance (n)
 	substances
 substantial
-	substantial
-	insubstantial
+	substantial (a)
+	insubstantial (a)
 	insubstantially
-	substantiality
-	substantially
+	substantiality (n)
+	substantially (adv)
 substantiate
 	substantiate
 	substantiated
@@ -96083,17 +96083,17 @@ subway
 	subway
 	subways
 succeed
-	succeed
+	succeed (v)
 	succeeded
 	succeeding
 	succeeds
 success
-	success
+	success (n)
 	successes
-	successful
-	successfully
-	unsuccessful
-	unsuccessfully
+	successful (a)
+	successfully (adv)
+	unsuccessful (a)
+	unsuccessfully (adv)
 succession
 	succession
 	successions
