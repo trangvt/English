@@ -52515,11 +52515,11 @@ intelsat
 intemperance
 	intemperance
 intend
-	intend
-	intended
+	intend (v)
+	intended (n)
 	intending
 	intends
-	unintended
+	unintended (a)
 intendant
 	intendant
 	intendants
@@ -52542,18 +52542,18 @@ intension
 	intensionality
 	intensionally
 intent
-	intent
-	intention
-	intentional
-	intentionality
-	intentionally
-	intentioned
-	intentions
-	intently
+	intent (a,n)
+	intention (n)
+	intentional (a)
+	intentionality (n)
+	intentionally (adv)
+	intentioned (a)
+	intentions (n)
+	intently (adv)
 	intentness
-	intents
-	unintentional
-	unintentionally
+	intents (n)
+	unintentional (a)
+	unintentionally (adv)
 inter
 	inter
 interact
