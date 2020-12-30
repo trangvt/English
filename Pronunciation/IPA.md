@@ -1,5 +1,9 @@
+IPA (n) : a system of symbols for showing how words are pronounced
+abbreviation for the International Phonetic Alphabet
+
 Phonemic Chart
 	https://www.englishclub.com/pronunciation/phonemic-chart.htm
+	https://www.englishclub.com/pronunciation/phonemic-chart-ia.htm
 
 Phonetic Chart Explained
 	https://www.youtube.com/watch?v=JfwVXfl0EnI
@@ -18,7 +22,7 @@ phoneme
 
 phonetic:
 	/foʊˈnet̬.ɪk/
-	using special signs to represent the different sounds made by the voice in speech
+	(a) using special signs to represent the different sounds made by the voice in speech
 		Pronunciations are shown in this dictionary using the International Phonetic Alphabet.
 
 phonetics
@@ -29,3 +33,7 @@ phonetics
 
 Pronunciation Workshop
 	https://www.youtube.com/watch?v=uKDKH257j18
+---------------------------------------------
+
+My secret English vowel pronunciation trick!
+	https://www.youtube.com/watch?v=eub0Q2KzV-I
