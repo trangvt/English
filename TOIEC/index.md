@@ -1,3 +1,12 @@
+TOEIC
+	https://vi.wikipedia.org/wiki/TOEIC
+	+ 100 – 300 điểm: Trình độ cơ bản. Khả năng giao tiếp tiếng Anh kém.
+	+ 300 – 450 điểm: Có khả năng hiểu & giao tiếp tiếng Anh mức độ trung bình. Là yêu cầu đối với học viên tốt nghiệp các trường nghề, cử nhân các trường Cao đẳng (hệ đào tạo 3 năm).
+	+ 450 – 650 điểm: Có khả năng giao tiếp tiếng Anh khá. Là yêu cầu chung đối với sinh viên tốt nghiệp Đại học hệ đào tạo 4-5 năm; nhân viên, trưởng nhóm tại các doanh nghiệp có yếu tố nước ngoài.
+	+ 650 – 850 điểm: Có khả năng giao tiếp tiếng Anh tốt. Là yêu cầu đối với cấp trưởng phòng, quản lý điều hành cao cấp, giám đốc trong môi trường làm việc quốc tế.
+	+ 850 – 990 điểm: Có khả năng giao tiếp tiếng Anh rất tốt. Sử dụng gần như người bản ngữ dù tiếng Anh không phải tiếng mẹ đẻ.
+
+
 Cấu trúc đề thi TOEIC : TẤT CẢ 7 phần Nghe & Đọc
 	https://tienganhmoingay.com/thong-tin-toeic/cau-truc-de-thi-toeic/
 
@@ -13,11 +22,14 @@ Cấu trúc đề thi TOEIC : TẤT CẢ 7 phần Nghe & Đọc
 		Những vật trong hình có vị trí như thế nào với nhau?
 		NOTE: tất cả các đáp án dạng "CHỦ NGỮ + are/is + being + V3" là SAI hết
 
-2 - Listening
+2 - Listening - Hỏi Đáp - 25 câu
+	https://tienganhmoingay.com/luyen-nghe-toeic/luyen-nghe-toeic-part-2/
 
 3 - Listening
+	https://tienganhmoingay.com/luyen-nghe-toeic/luyen-nghe-toeic-part-3/
 
 4 - Listening
+	https://tienganhmoingay.com/luyen-nghe-toeic/luyen-nghe-toeic-part-4/
 
 -----------------------------------------------------
 5 - Reading - 40 questions - 4 answers
